@@ -1,12 +1,6 @@
 # USB-Device-Management USB Type-A
 
-      _________
-     |         |
-     |   USB   |
-     |  Type-A |
-     |_________|
-     | | | | | |
-     | | | | | |
-      \_______/
+![USB Connector](URL-da-imagem)
+
 
 Script PowerShell para desabilitar, habilitar e reiniciar dispositivos USB
